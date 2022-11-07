@@ -7,7 +7,8 @@ print('######  Constant time complexity  #######')
 print(array[0])
 
 
-######  Linear time complexity  #######
+######  Linear time complexity 
+#  #######
 print('######  Linear time complexity  #######')
 for element in array:
      print(element)
